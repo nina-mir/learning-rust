@@ -1,4 +1,6 @@
-# Rust Learning Series: A 5-Part Guide for Beginners
+# Rust Learning Series: A 5-Part Guide for Beginners 
+[!NOTE]
+> Claude LLM Generated
 
 ## Table of Contents
 1. [Part 1: Ownership and Borrowing](#part-1-ownership-and-borrowing)
