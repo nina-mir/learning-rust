@@ -1,6 +1,8 @@
 # Rust Learning Series: A 5-Part Guide for Beginners 
-[!NOTE]
-> Claude LLM Generated
+> [!NOTE]
+> This learning guide is created using Claude 3.5 Sonnet LLM, an algorithm. 
+> The answers to the problems are created by the repo owner, a human.
+
 
 ## Table of Contents
 1. [Part 1: Ownership and Borrowing](#part-1-ownership-and-borrowing)
